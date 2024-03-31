@@ -8,7 +8,7 @@ Follow these steps to set up and run the TODO API on your local machine.
 
 ### Prerequisites
 
-- Python 3.x installed on your system
+- Python 3.x installed on your system/ PC
 
 ### Installation
 
